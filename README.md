@@ -133,4 +133,12 @@ body {
     background-color: #FADADD;
   }
 
+body {
+    background-color: #f0f0f0;  /* Change la couleur de fond */
+    color: #333333;  /* Change la couleur du texte */
+}
+
+.header {
+    background-color: #4CAF50;  /* Change la couleur d'en-tête */
+}
 
